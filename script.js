@@ -1,6 +1,6 @@
 // ==================== CONFIGURACIÓN ====================
 // IMPORTANTE: Reemplazar con la URL de tu Google Apps Script Web App
-const API_URL = 'TU_URL_DE_APPS_SCRIPT_AQUI';
+const API_URL = 'https://script.google.com/macros/s/AKfycbxr-_2uupQNFvqt_Qo9usC1ju0HVff0K7rYIwajpWpKtDMusTAtH4OAPQ9zd2BFzr7KLg/exec';
 
 // ==================== ESTADO DE LA APLICACIÓN ====================
 let articles = [];
